@@ -11,14 +11,14 @@
     - Ruby standard tools
         - ruby, irb, rdoc, ri, rake, gem, erb   
     
-2. Objects, Methods, Local Variables
+2. [Objects, Methods, Local Variables](ch02-objs-meths-locals.ipynb)
     - talking to objects
     - creating an object
     - innate object behaviors
     - method arguments
     - local variables & assignments
     
-3. Classes
+3. [Classes](ch03-classes.ipynb)
     - classes & instances
     - instance variables & object state
     - setter methods
@@ -28,13 +28,13 @@
     - constants
     - nature vs nurture
     
-4. Modules
+4. [Modules](ch04-modules.ipynb)
     - intro
     - modules, classes & method lookup
     - method_missing
     - class & module design/naming
     
-5. Self
+5. [Self](ch05-self.ipynb)
     - intro
     - scope
     - method-access rules
