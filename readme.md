@@ -4,7 +4,7 @@
 - This is nowhere near 100% complete - this release merely shames me into finishing.
 
 ### Contents:
-1. Bootstrapping
+1. [Bootstrapping](ch01-bootstrap.ipynb)
     - installation, syntax, Ruby basics
     - Ruby anatomy
     - Ruby extensions & libraries
