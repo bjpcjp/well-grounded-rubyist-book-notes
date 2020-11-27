@@ -40,13 +40,13 @@
     - method-access rules
     - top-level methods
     
-6. Control Flow Techniques
+6. [Control Flow Techniques](ch06-control-flow.ipynb)
     - conditional execution
     - loops
     - iterators & code blocks
     - error handling & exceptions
     
-7. Essential Classes & Modules
+7. [Essential Classes & Modules](ch07-essentials.ipynb)
     - literal constructors
     - syntactic sugar
     - bang methods and danger
@@ -55,20 +55,20 @@
     - comparing two objects
     - inspecting object capabilities
     
-8. Strings, Symbols, other Scalars
+8. [Strings, Symbols, other Scalars](ch08-scalars.ipynb)
     - string basics
     - symbols
     - numbers
     - times & dates
     
-9. Collections & Containers
+9. [Collections & Containers](ch09-collections-containers.ipynb)
     - arrays & hashes
     - collection handling with arrays
     - hashes
     - ranges
     - sets
     
-10. Enumerables
+10. [Enumerables](ch10-enumerables.ipynb)
     - each
     - boolean queries
     - searches & indexes
@@ -82,7 +82,7 @@
     - method chaining
     - lazy enumerators
     
-11. Regular Expressions
+11. [Regular Expressions](ch11-regexes.ipynb)
     - intro
     - writing
     - building a pattern
@@ -91,19 +91,19 @@
     - string <=> regex conversions
     - common use cases
     
-12. File I/O Operations (TODO)
+12. [File I/O Operations (TODO)](ch12-file-io.ipynb)
     - IO class
     - basic file ops
     - IO and File queries
     - directories
     - file tools
     
-13. Object Individualization
+13. [Object Individualization](ch13-object-individualization.ipynb)
     - singletons
     - modifying core classes & modules
     - BasicObject
     
-14. Callables & Runnables
+14. [Callables & Runnables](ch14-callables-runtimes.ipynb)
     - procs
     - lambdas and ->
     - methods as objects
@@ -111,14 +111,14 @@
     - threads
     - system commands from inside Ruby
     
-15. Callbacks, Hooks, Runtime Introspection (TODO)
+15. [Callbacks, Hooks, Runtime Introspection (TODO)](ch15-callbacks-hooks-introspection.ipynb)
     - callbacks & hooks
     - interpreting object capability queries
     - introspection: variables & constants
     - tracing execution
     - callbacks & method inspection in practice 
     
-16. Functional Programming
+16. [Functional Programming](ch16-functional-programming.ipynb)
     - pure functions
     - immutability
     - higher-order functions
